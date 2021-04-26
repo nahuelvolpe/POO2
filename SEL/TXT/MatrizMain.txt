@@ -1,0 +1,10 @@
+public class Main {
+
+	public static void main(String[] args) {
+		double[][] valores1={{2,0,1},{1,1,-4},{3,7,-3}};
+		Matriz m1 = new Matriz(valores1);
+		
+		m1.matrizInversa(valores1);
+	}
+
+}

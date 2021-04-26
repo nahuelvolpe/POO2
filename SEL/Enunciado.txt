@@ -1,0 +1,10 @@
+TP1 Sistemas de Ecuaciones Lineales
+Implementar el TDA SEL utilizando objetos MatrizMath y VectorMAth
+Realizar un Diagrama de clases
+Análizar el rendimiento (Tiempo como función de la dimensión del SEL). Se espera que sea posible resolver sistemas de dimensión 1000 o superior. 
+Graficar.
+Fecha de entrega
+
+Nota: En todo lo anterior, trabajar siguiendo nuestra metodología. 
+
+Notación matricial de un SEL:  a*x=b

@@ -1,0 +1,1 @@
+La complejidad computacional del algoritmo que resuelve el problema es de tipo O(n²) debido a que el algoritmo de complejidad más alta utilizado en este trabajo es el de Dijkstra el cual utiliza este tipo de complejidad, mientras que algunos de los otros métodos también tienen complejidad n² debido por ejemplo a la precencia de dos for anidados.  

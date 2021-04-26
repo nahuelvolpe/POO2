@@ -1,0 +1,1 @@
+Se eligió utilizar el algoritmo de Dijsktra debido a que para la resolución del problema, había que recorrer un grafo teniendo un origen y un destino y calcular el costo mínimo para llegar a él, además debemos tener el recorrido del mismo guardado para poder compararlo con la entrada del archivo y así resolver si una calle debe o no cambiar de mano.
